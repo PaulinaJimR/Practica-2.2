@@ -1109,3 +1109,15 @@ if __name__ == '__main__':
 Video de funcionamiento
 
 [![Alt text](https://img.youtube.com/vi/v=EKv0EQlmn2s&ab_channel=PAULINAJIMENEZRIVERA/0.jpg)](https://www.youtube.com/watch?v=EKv0EQlmn2s&ab_channel=PAULINAJIMENEZRIVERA)
+
+Imágenes de resultados
+* Caso Temperatura 1:
+![](im1.png)
+
+* Caso Temperatura 2:
+![](im2.png)
+
+* Caso Temperatura 3:
+![](im3.png)
+
+
