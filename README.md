@@ -1,6 +1,6 @@
 # Practica-2.2
 
-### *Desplegar ANIMACION de la temperatura en OLED Display con bitArray imagen y animaciòn*
+### *Desplegar ANIMACION de la temperatura en OLED Display con bitArray imagen y animación*
 
 El ambiente en el que se realizó fue en Thonny con Micropython, haciendo uso de la Pico W.
 _Se utilizaron los componentes necesarios para depslegar una animación, estos incluyen la_
@@ -1107,4 +1107,4 @@ if __name__ == '__main__':
     main()
 ```
 Video de funcionamiento
-[](https://youtu.be/EKv0EQlmn2s)
+[](https://youtu.be/EKv0EQlmn2s.com)
