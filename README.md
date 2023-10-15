@@ -3,9 +3,8 @@
 ### *Desplegar ANIMACION de la temperatura en OLED Display con bitArray imagen y animaciòn*
 
 El ambiente en el que se realizó fue en Thonny con Micropython, haciendo uso de la Pico W.
-_Lo primero que se realizó fue la programación del led blink, donde se prende y apaga el led de la Pico W_
-
-**------------BLINK------------**
+_Se utilizaron los componentes necesarios para depslegar una animación, estos incluyen la_
+_Pico W, pantalla OLED, un protoboard, jumpers, y un cable micro usb_
 
 **Código**
 ```python
